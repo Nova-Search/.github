@@ -1,5 +1,5 @@
 # Hi there 👋
-![Nova Search](https://github.com/user-attachments/assets/aa59f35e-83dc-4877-9701-ecfa8a4dba2f)
+![Nova Search](https://github.com/user-attachments/assets/a7168029-1e2d-41f3-8257-808bbded39a5)
 
 Welcome to Nova Search's GitHub organisation! We're an open-source search engine with completely independent search results - no third parties
 
