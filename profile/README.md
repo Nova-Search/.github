@@ -10,4 +10,4 @@ Welcome to Nova Search's GitHub organisation! We're an open-source search engine
 
 🕷️ [crawler](https://github.com/Nova-Search/crawler) - Repository for the crawler that searches the web for pages that Nova Search searches
 
-📱 frontend (soon) - (soon to be) Repository for the frontend for Nova Search
+📱 [frontend](https://github.com/Nova-Search/frontend) - Repository for the frontend for Nova Search
