@@ -1,7 +1,7 @@
 ## Hi there 👋
-Welcome to Nova Search's GitHub organisation!
+![Nova Search](https://github.com/user-attachments/assets/aa59f35e-83dc-4877-9701-ecfa8a4dba2f)
 
-We're an open-source search engine with completely independent search results - no third parties
+Welcome to Nova Search's GitHub organisation! We're an open-source search engine with completely independent search results - no third parties
 
 ## Our Repositories 📦
 🐙 [.github](https://github.com/Nova-Search/.github) - Repository for this README!
