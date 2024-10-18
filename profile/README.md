@@ -3,13 +3,8 @@ Welcome to Nova Search's GitHub organisation!
 
 We're an open-source search engine with completely independent search results - no third parties
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Repositories
+[.github](https://github.com/Nova-Search/.github) - Repository for this README!
+[api](https://github.com/Nova-Search/api) - Repository for the API that powers Nova Search
+[crawler](https://github.com/Nova-Search/crawler) - Repository for the crawler that searches the web for pages that Nova Search searches
+frontend (soon) - (soon to be) Repository for the frontend for Nova Search
